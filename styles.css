@@ -1,0 +1,10 @@
+.pagination-button-container{
+    display: inline;
+}
+
+.pagination-button-container button{
+    padding: 6px 18px;
+}
+.pagination-button-container{
+    margin-right:40px;
+}
